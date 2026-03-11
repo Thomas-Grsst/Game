@@ -1,5 +1,5 @@
-1
-2
+1 javier_turcot
+2 @cropalypse_vuln_is_impressive
 3
 4
 5
@@ -23,7 +23,7 @@
 23
 24
 25
-26
+26 mcsTnTld1dDn
 27
 28
 29
